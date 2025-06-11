@@ -54,3 +54,8 @@ vx红包，感谢：
 
 ## 捐助途径
 ![IMG_9411](https://p.ipic.vip/kpsg5x.jpg)
+
+
+
+## 友情赞助商
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
