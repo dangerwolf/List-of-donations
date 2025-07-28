@@ -64,9 +64,11 @@ vx红包，感谢：
 
 
 ## 友情赞助商
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
-开发者需要免费服务的，推荐使用每个月免费$5额度的云服务。
+1. [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+2. 开发者需要免费服务的，推荐使用每个月免费$5额度的云服务。
 [https://console.run.claw.cloud/signin?link=XHJEEP7HEVIR](https://console.run.claw.cloud/signin?link=XHJEEP7HEVIR)
 
+3. [Cloudcone VPS](https://app.cloudcone.com/?ref=12850)
 
